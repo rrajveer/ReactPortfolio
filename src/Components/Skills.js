@@ -4,13 +4,14 @@ export default function Skills() {
     return (
         <div className="container skillss">
             <h4 className="text-center text-uppercase mt-5">Skills</h4>
+            <hr clasName="mx-auto" style={{marginBottom:"1px solid #eee",width:"24%",marginLeft:"25rem"}}/> 
             <div className="my-skills" >
             <div className="skill-item" data-aos="fade-right" data-aos-delay="300">
                     <div className="icons-container">
                     <i class="far fa-file-code" style={{fontSize:"1.5rem",color:"#ffe838"}}/>
                         {/* <img src={SkillsImg[0].database} alt="dataImg"/> */}
                     </div>
-                    <h6 style={{borderBottom:"1px solid white"}}>Development</h6>
+                    <h6 style={{borderBottom:"1px solid white",fontSize:"0.9rem"}}>Development</h6>
                     <ul>
                         <li>react</li>
                         <li>html</li>
@@ -23,7 +24,7 @@ export default function Skills() {
                     <div className="icons-container">
                     <i class="fas fa-database icon-4x" style={{fontSize:"1.5rem",color:"#ffe838"}}/>
                     </div>
-                    <h6 style={{borderBottom:"1px solid white"}}>DataBase</h6>
+                    <h6 style={{borderBottom:"1px solid white",fontSize:"0.9rem"}}>DataBase</h6>
                     <ul>
                         <li>sqlLite</li>
                         <li>sql</li>
@@ -34,7 +35,7 @@ export default function Skills() {
                     <div className="icons-container">
                     <i class="fas fa-code-branch" style={{fontSize:"1.5rem",color:"#ffe838"}}/>
                     </div>
-                    <h6 style={{borderBottom:"1px solid white"}}>Version Control</h6>
+                    <h6 style={{borderBottom:"1px solid white",fontSize:"0.9rem"}}>Version Control</h6>
                     <ul>
                         <li>gitHub</li>
                         <li>bitBucket</li>
@@ -44,7 +45,7 @@ export default function Skills() {
                     <div className="icons-container">
                     <i class="fas fa-tasks" style={{fontSize:"1.5rem",color:"#ffe838"}}></i>
                     </div>
-                    <h6 style={{borderBottom:"1px solid white"}}>Task Management</h6>
+                    <h6 style={{borderBottom:"1px solid white",fontSize:"0.9rem"}}>Task Management</h6>
                     <ul>
                         <li>trello</li>
                         <li>scrum</li>

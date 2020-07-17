@@ -3,12 +3,6 @@
   /* background: #2980b9; 
 background: -webkit-linear-gradient(to bottom, #2c3e50, #2980b9); 
 background: linear-gradient(to bottom, #2c3e50, #2980b9);  */
-
-
-
-
-
-
 }
 .header{
   width: 100%;
@@ -150,29 +144,29 @@ li{
 /* SERVICES */
 
 
-.Services::before,
+/* .Services::before,
 .Services::after{
       content: '';
       position: absolute;
       /* bottom: -.5rem; */
-      bottom: -87rem;
+      /* bottom: -87rem;
       left: 50%;
       transform: translateX(-50%);
-      background-color:white;
-}
+      background-color:white; */
 
-.Services::before{
+
+/* .Services::before{
   width:18rem;
   height: 3px;
   border-radius: 0.8rem;
-}
-.Services::after{
+} */
+/* .Services::after{
   width: 1.2rem;
   height: 1.3rem;
   border-radius: 100%;
   /* bottom: -1rem; */
-  bottom: -87.5rem;
-}
+  /* bottom: -87.5rem; */
+
 
 .mySkills{
   display: flex;
@@ -282,7 +276,7 @@ li{
 .my-skills{
   display: flex;
   justify-content: space-around;
-  margin-top: 5rem;
+  margin-top: 3rem;
 }
 
 .icons-container i{
@@ -291,6 +285,7 @@ li{
 
 }
 .skill-item h6{
+  margin-top: 0.5rem;
   text-align: center;
   font-size: 0.8rem;
   color: white;
@@ -300,8 +295,9 @@ li{
 .skill-item ul{
   list-style: none;
   /* display: flex; */
-  justify-content: center;
-  margin-right: 2rem;
+   justify-content: start;
+  margin-top: 0px;
+  margin-right: 40px;
   
 }
 .skill-item li{
@@ -315,18 +311,17 @@ li{
 
 /* SERVICES-MEEEEEE */
 
-.services h3::before,
+/* .services h3::before,
 .services h3::after{
       content: '';
       position: absolute;
-      /* bottom: -.5rem; */
-      bottom: -159.5rem;
+      bottom: -.5rem;
+       bottom: -159.5rem;
        left: 50%;
       transform: translateX(-50%);
-      background-color:white;
-}
+      background-color:white; */
 
-.services h3::before{
+/* .services h3::before{
   width:18rem;
   height: 3px;
   border-radius: 0.8rem;
@@ -336,22 +331,22 @@ li{
   height: 1.3rem;
   border-radius: 100%;
   /* bottom: -1rem; */
-  bottom: -152rem;
-}
+  /* bottom: -152rem; */
+
 
 /* CONTACT */
-.contact h3::before,
+/* .contact h3::before,
 .contact h3::after{
       content: '';
       position: absolute;
       /* bottom: -.5rem; */
-      bottom: -152.5rem;
+      /* bottom: -152.5rem;
        left: 50%;
       transform: translateX(-50%);
-      background-color:white;
-}
+      background-color:white; */
 
-.contact h3::before{
+
+/* .contact h3::before{
   width:18rem;
   height: 3px;
   border-radius: 0.8rem;
@@ -361,22 +356,22 @@ li{
   height: 1.3rem;
   border-radius: 100%;
   /* bottom: -1rem; */
-  bottom: -153rem;
-}
-/* //HR LINEEEE */
+  /* bottom: -153rem; */
 
- .skillss h4::before,
+/* HR LINEEEE */
+
+ /* .skillss h4::before,
  .skillss h4::after{
       content: '';
       position: absolute;
       /* bottom: -.5rem; */
-      bottom: -176.5rem;
+      /* bottom: -176.5rem;
        left: 50%;
       transform: translateX(-50%);
-      background-color:white;
-}
+      background-color:white; */
 
-.skillss h4::before{
+
+/* .skillss h4::before{
   width:18rem;
   height: 3px;
   border-radius: 0.8rem;
@@ -386,8 +381,7 @@ li{
   height: 1.3rem;
   border-radius: 100%;
   /* bottom: -1rem; */
-  bottom: -177rem;
-}
+  /* bottom: -177rem; */
 
 .up{
   position: absolute;

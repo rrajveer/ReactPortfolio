@@ -45,17 +45,17 @@ export default function Home({showMenu,openMenu,className,barStartClass,barEndCl
           
                    <div className="title text-capitalize">
                       <h1>rajveer kour</h1>
-                      <h6 style={{ fontFamily:"Alegreya Sans SC, sans-serif",fontSize:"1rem",opacity:0.7,color:"white"}}>
+                      <h6 style={{ fontFamily:"Alegreya Sans SC, sans-serif",fontSize:"1rem",opacity:0.7,color:"white",marginTop: "-21px"}}>
                       <Typical 
                       loop={Infinity}
                       wrapper='b'
                       steps={[
                           'UI Designer',
-                          2000,
+                          1000,
                           'Web Developer',
-                          2000,
+                          1000,
                           'UX Designer',
-                          2000
+                          1000
 
                       ]}/>
                       </h6>

@@ -9,6 +9,7 @@ export default function Contact() {
    
       <div className="contact mt-5">
        <h3 className="text-center text-uppercase mt-5">contact me</h3>
+       <hr clasName="mx-auto" style={{marginBottom:"1px solid #eee",width:"20%",width: "25%",marginLeft:"27rem"}}/> 
        <h7 className="text-center" style={{fontFamily:"Pacifico, cursive",fontSize:"1rem",letterSpacing:"0.1rem"}}>Getting In Touch Is Easy!!!</h7>
           
        <ContactWrapper>
@@ -24,21 +25,21 @@ export default function Contact() {
                         <i class="fas fa-map-marker-alt" style={{fontSize:"1.8rem", color:"white",opacity:"0.9"}}/>
                         {/* <i class="fas fa-map-marker-alt"> */}
                             {/* <span><img src={ContactImg[0].loacation} alt="loc" style={{height:"80px",padding:"10px"}}/></span> */}
-                            <span style={{marginTop:"10px",marginLeft:"1.6rem"}}> Montreal, QC H2C1J6</span>
+                            <span style={{fontSize:"0.9rem",marginTop:"5px",marginLeft:"1.6rem"}}> Montreal, QC H2C1J6</span>
                         </li>
                         <li style={{marginTop:"1.2rem"}}>
                         <i class="fas fa-envelope-open-text" style={{fontSize:"1.8rem", color:"white",opacity:"0.9"}}/>
                             {/* <span><img src={ContactImg[0].gmail} alt="gmail" style={{height:"30px",width: "40%",marginLeft:"1px"}}/></span> */}
-                            <span style={{marginTop:"10px",marginLeft:"1.3rem"}}>kaurrajveer25@gmail.com</span>
+                            <span style={{fontSize:"0.9rem",marginTop:"5px",marginLeft:"1.3rem"}}>kaurrajveer25@gmail.com</span>
                         </li>
                         <li style={{marginTop:"1.2rem"}}>
                         <i class="fas fa-phone-alt" style={{fontSize:"1.8rem", color:"white",opacity:"0.9",marginTop:"0.5rem"}}></i>
                             {/* <span><img src={ContactImg[0].phone} alt="phone"style={{height:"59px",padding:"17px"}}/></span> */}
-                            <span style={{marginTop:"10px",marginLeft:"1.3rem"}}>(514)-659-5225</span>
+                            <span style={{fontSize:"0.9rem",marginTop:"10px",marginLeft:"1.3rem"}}>(514)-659-5225</span>
                         </li>
                         <li>
                             <a href="https://www.linkedin.com/in/kaur-rajveer/"><i class="fab fa-linkedin-in"  style={{fontSize:"1.8rem", color:"white",opacity:"0.9",marginTop:"0.5rem"}}></i></a>
-                            <span style={{marginTop:"10px",marginLeft:"1.5rem"}}> LinkedIn</span>
+                            <span style={{fontSize:"0.9rem",marginTop:"10px",marginLeft:"1.5rem"}}> LinkedIn</span>
                         </li>
                     </ul>
                     {/* <ul className="social">

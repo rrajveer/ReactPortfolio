@@ -10,7 +10,7 @@ import Education from './Components/Education'
 import Experience from './Components/Experience';
 import Services from './Components/Services';
 import Projects from './Components/Projects';
-import Project from './Components/Project';
+//import Project from './Components/Project';
 import Skills from './Components/Skills';
 //import { Switch, Route} from 'react-router-dom';
 
@@ -64,7 +64,7 @@ export default class App extends Component {
       <Education />
       <Skills/>
       <Experience />
-      <Project />
+      <Projects />
       <Services />
       
       <Contact />
