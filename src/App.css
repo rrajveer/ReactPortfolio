@@ -20,7 +20,7 @@ background: linear-gradient(to bottom, #191654, #43C6AC); /* W3C, IE 10+/ Edge, 
 
 
 
-  //background-color:brown;
+  /* //background-color:brown; */
   border-bottom-right-radius: 100%;
   border-bottom-left-radius: 100%;
   transition: all 650ms cubic-bezier(1,0,0,1)
@@ -399,4 +399,7 @@ li{
   color: black;
   font-size: 2rem;
   margin: auto;
+}
+hr{
+  margin: auto !important;
 }

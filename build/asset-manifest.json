@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.99cb0d82.chunk.css",
-    "main.js": "/ReactPortfolio/static/js/main.6a9446cd.chunk.js",
-    "main.js.map": "/ReactPortfolio/static/js/main.6a9446cd.chunk.js.map",
+    "main.css": "/ReactPortfolio/static/css/main.e8d5e871.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.c5152320.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.c5152320.chunk.js.map",
     "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.57c703ac.js",
     "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.57c703ac.js.map",
     "static/css/2.5206c547.chunk.css": "/ReactPortfolio/static/css/2.5206c547.chunk.css",
-    "static/js/2.30ece4e3.chunk.js": "/ReactPortfolio/static/js/2.30ece4e3.chunk.js",
-    "static/js/2.30ece4e3.chunk.js.map": "/ReactPortfolio/static/js/2.30ece4e3.chunk.js.map",
+    "static/js/2.f096b98e.chunk.js": "/ReactPortfolio/static/js/2.f096b98e.chunk.js",
+    "static/js/2.f096b98e.chunk.js.map": "/ReactPortfolio/static/js/2.f096b98e.chunk.js.map",
     "index.html": "/ReactPortfolio/index.html",
-    "precache-manifest.99d0c5553a751c7fbcd6c9bdd9077698.js": "/ReactPortfolio/precache-manifest.99d0c5553a751c7fbcd6c9bdd9077698.js",
+    "precache-manifest.bd61a312a9b9dda0887e72d1b050a72e.js": "/ReactPortfolio/precache-manifest.bd61a312a9b9dda0887e72d1b050a72e.js",
     "service-worker.js": "/ReactPortfolio/service-worker.js",
     "static/css/2.5206c547.chunk.css.map": "/ReactPortfolio/static/css/2.5206c547.chunk.css.map",
-    "static/css/main.99cb0d82.chunk.css.map": "/ReactPortfolio/static/css/main.99cb0d82.chunk.css.map",
-    "static/js/2.30ece4e3.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.30ece4e3.chunk.js.LICENSE.txt",
-    "static/media/MyImg.JPG": "/ReactPortfolio/static/media/MyImg.e364b2ee.JPG"
+    "static/css/main.e8d5e871.chunk.css.map": "/ReactPortfolio/static/css/main.e8d5e871.chunk.css.map",
+    "static/js/2.f096b98e.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.f096b98e.chunk.js.LICENSE.txt",
+    "static/media/BeachResort.png": "/ReactPortfolio/static/media/BeachResort.a7d66b3a.png",
+    "static/media/MyImg7.jpeg": "/ReactPortfolio/static/media/MyImg7.7a16acf9.jpeg",
+    "static/media/OnlineShopping2.webm": "/ReactPortfolio/static/media/OnlineShopping2.59849ac9.webm",
+    "static/media/ReactForm.webm": "/ReactPortfolio/static/media/ReactForm.6d26abb4.webm"
   },
   "entrypoints": [
     "static/js/runtime-main.57c703ac.js",
     "static/css/2.5206c547.chunk.css",
-    "static/js/2.30ece4e3.chunk.js",
-    "static/css/main.99cb0d82.chunk.css",
-    "static/js/main.6a9446cd.chunk.js"
+    "static/js/2.f096b98e.chunk.js",
+    "static/css/main.e8d5e871.chunk.css",
+    "static/js/main.c5152320.chunk.js"
   ]
 }

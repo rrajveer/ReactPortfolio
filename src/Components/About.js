@@ -9,7 +9,7 @@ export default function About() {
         <AboutWrapper>
             <div>
             <h4 className="text-center text-uppercase">about me</h4>
-              <hr clasName="mx-auto" style={{marginBottom:"1px solid #eee",width:"20%",width: "25%",marginLeft:"27rem"}}/> 
+              <hr clasName="m-auto" style={{marginBottom:"10px solid #eee",width: "25%"}}/> 
             <div className="about-us">
                 <div className="abt-img"data-aos="flip-up" data-aos-delay="300" >
                     <img src={require("../assest/MyImg7.jpeg")} 
